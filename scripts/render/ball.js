@@ -81,7 +81,7 @@ let Ball = {
         Ball.width = 30;
         Ball.height = 30;
         Ball.radius = 15;
-        Ball.speed = .15;
+        Ball.speed = .4;
         Ball.direction = {
             x: 0.5,
             y: -0.5,

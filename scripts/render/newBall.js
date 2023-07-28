@@ -87,7 +87,7 @@ let newBall = {
         newBall.width = 30;
         newBall.height = 30;
         newBall.radius = 15;
-        newBall.speed = .15;
+        newBall.speed = .4;
         newBall.direction = {
             x: 0.5,
             y: -0.5,
